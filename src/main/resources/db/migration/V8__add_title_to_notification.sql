@@ -1,0 +1,3 @@
+
+ALTER TABLE notification
+ADD COLUMN title VARCHAR(100) NOT NULL DEFAULT '';
